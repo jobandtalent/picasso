@@ -10,7 +10,7 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>picasso</artifactId>
+  <artifactId>picasso-jobandtalent</artifactId>
   <name>Picasso</name>
 
   <dependencies>
